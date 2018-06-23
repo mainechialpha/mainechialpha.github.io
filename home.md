@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Maine Chi Alpha
+title: Home
 permalink: /
 ---
 
