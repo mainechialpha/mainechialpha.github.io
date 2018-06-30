@@ -17,6 +17,5 @@ We are blessed to have many awesome volunteers....here are a few of them!
 	    {% if person.bio %}<p class="card-text">{{ person.bio }}</p>{% endif %}
     </div>
 </div>
-<hr>
 {% endif %}
 {% endfor %}
