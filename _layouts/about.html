@@ -1,13 +1,15 @@
 ---
-layout: default
+layout: page
+navdata:
+  staff:
+    url: /staff/
+    title: Staff
+  values:
+    url: /values/
+    title: Values
+  faq:
+    url: /faq/
+    title: FAQ
 ---
 
-<div class="row">
-  <div class="col-3">
-    {% include aboutnav.html %}
-  </div>
-
-  <div class="col">
-    {{ content }}
-  </div>
-</div>
+{{ content }}
