@@ -5,8 +5,7 @@
   </button>
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
     <div class="navbar-nav">
-      <a {% if page.url == '/' %} class="nav-item nav-link active"{% else %} class="nav-item nav-link"{% endif %} href="/">Home</a>
-      <a {% if page.url == '/about/' %} class="nav-item nav-link active"{% else %} class="nav-item nav-link"{% endif %} href="/about/">About Us</a>
+      <a {% if page.url == '/values/' || page.url == '/staff/' || page.url == '/faq/' || %} class="nav-item nav-link active"{% else %} class="nav-item nav-link"{% endif %} href="/staff/">About Us</a>
       <a {% if page.url == '/connect/' %} class="nav-item nav-link active"{% else %} class="nav-item nav-link"{% endif %} href="/connect/">Connect</a>
       <a {% if page.url == '/missions/' %} class="nav-item nav-link active"{% else %} class="nav-item nav-link"{% endif %} href="/missions/">Missions</a>
       <a {% if page.url == '/resources/' %} class="nav-item nav-link active"{% else %} class="nav-item nav-link"{% endif %} href="/resources/">Resources</a>
