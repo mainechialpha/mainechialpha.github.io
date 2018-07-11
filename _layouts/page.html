@@ -7,8 +7,13 @@ layout: default
     <h1 class="page-title">{{ page.title }}</h1>
   </header>
 
-  <article>
-    {{ content }}
+  <article class="row">
+    <div class="col-3">
+      {% include abstractnav.html data={{ page.navdata }} %}
+    </div>
+    <div class="col">
+      {{ content }}
+    </div>
   </article>
 
 </div>
