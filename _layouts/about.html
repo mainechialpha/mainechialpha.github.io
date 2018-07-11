@@ -3,7 +3,11 @@ layout: default
 ---
 
 <div class="row">
-  {% include aboutnav.html %}
+  <div class="col-3">
+    {% include aboutnav.html %}
+  </div>
 
-  {{ content }}
+  <div class="col">
+    {{ content }}
+  </div>
 </div>
