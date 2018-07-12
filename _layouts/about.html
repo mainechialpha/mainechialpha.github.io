@@ -1,15 +1,10 @@
 ---
 layout: page
-navdata:
-  staff:
-    url: /staff/
-    title: Staff
-  values:
-    url: /values/
-    title: Values
-  faq:
-    url: /faq/
-    title: FAQ
 ---
 
-{{ content }}
+<div class="col-3">
+  {% include aboutnav.html %}
+</div>
+<div class="col">
+  {{ content }}
+</div>
