@@ -1,6 +1,0 @@
-<nav class="nav nav-pills flex-sm-column">
-{% for nav in include.data %}
-{% assign navItem = nav[0] %}
-  <a {% if page.url == navItem.url %}class="flex-sm-fill text-sm-center nav-link active"{% else %}class="flex-sm-fill text-sm-center nav-link"{% endif %} href="{{ navItem.url }}">{{ navItem.title }}</a>
-{% endfor %}
-</nav>
