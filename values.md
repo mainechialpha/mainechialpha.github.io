@@ -7,7 +7,7 @@ permalink: /values/
 {% for val in site.data.values %}
 {% assign value = val[1] %}
 {% if value.body %}
-<div class="card">
+<div class="shadow-card card">
   {% if value.img %}
     <img class="card-img-top" src="{{ site.url }}/images/values/{{ value.img }}" alt="{{ value.title }}">
   {% endif %}
