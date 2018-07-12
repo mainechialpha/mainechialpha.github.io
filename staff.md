@@ -9,7 +9,7 @@ We are blessed to have many awesome volunteers....here are a few of them!
 {% for personb in site.data.people %}
 {% assign person = personb[1] %}
 {% if person.bio %}
-<div class="shadow-card card">
+<div class="d-sm-flex align-items-sm-center flex-sm-row shadow-card card">
     <img class="person-img col-3" src="{{ site.url }}/images/people/{{ person.img }}" alt="{{ person.name }}">
     <div class="person-body">
         {% if person.name %}<h5 class="person-title">{{ person.name }}</h5>{% endif %}
