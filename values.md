@@ -12,7 +12,7 @@ permalink: /values/
     <img class="card-img-top" src="{{ site.url }}/images/values/{{ value.img }}" alt="{{ value.title }}">
   {% endif %}
     <div class="card-body">
-        {% if value.title %}<h5 class="card-title">{{ value.title }}</h5>{% endif %}
+        {% if value.title %}<h5 class="card-title text-center">{{ value.title }}</h5>{% endif %}
         {% if value.body %}<p class="card-text">{{ value.body }}</p>{% endif %}
     </div>
 </div>
