@@ -10,7 +10,7 @@ Nope! But if you’re looking for brother or sisterhood, look no further. Our na
 
 #### Where do you meet?
 
-Our large group meets primarily in the Bangor Room of the Student Union each Monday night at 7:30. We also have weekly small groups.
+Our large group meets primarily in the Bangor Room of the Student Union each Monday night at 7:30. We also have weekly small groups—more on that below!
 
 #### What do I do if I'm interested?
 
@@ -18,4 +18,4 @@ Just show up! Our large and small groups are open to any student who'd like to b
 
 #### Do you have small groups?
 
-We do indeed! They’re called discipleship groups (d-groups, for short) and we have various times and locations weekly on campus.
+We do indeed! They’re called discipleship groups (d-groups, for short) and we have various times and locations weekly on campus. Head on over to the “Connect” tab or check out our Facebook page!
