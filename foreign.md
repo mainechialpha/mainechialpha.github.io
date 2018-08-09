@@ -6,7 +6,7 @@ permalink: /foreign/
 
 Project 222
 
-Why has Chi Alpha decided that it’s a good idea to take a group of university students overseas? In Jesus’ final address to the disciples, He told them to take the Gospel to all nations, beginning “in Jerusalem, and in all Judea and Samaria, and to the ends of the earth.” Acts 1:8
+Why has Chi Alpha decided that it’s a good idea to take a group of university students overseas? In Jesus’ final address to the disciples, He told them to take the Gospel to all nations, beginning “in Jerusalem, and in all Judea and Samaria, and to the ends of the earth.” (Acts 1:8)
 
 As a ministry, we take this commission seriously. We are continually reaching out to our local campus—our Jerusalem—to the surrounding community—our Judea—and to international students on campus—our Samaria. Project is our response to the standing call to take the Gospel to the ends of the earth.
 
