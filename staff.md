@@ -4,7 +4,7 @@ title: Staff
 permalink: /staff/
 ---
 
-We are blessed to have many awesome volunteers....here are a few of them!
+Meet the staff!
 
 {% for personb in site.data.people %}
 {% assign person = personb[1] %}
