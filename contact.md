@@ -6,6 +6,8 @@ permalink: /contact/
 
 Photo
 
-Email: [umainechialpha@gmail.com](mailto:umainechialpha@gmail.com)
+We want to connect with you! Feel free to reach out to any of the staff, message "Chi Alpha UMaine" through Facebook, or use the information below! We look forward to meeting you!
 
-Phone (Mac Holderfield): (870) 918-0557
+Mac Holderfield, Director: (870) 978-0557
+
+Email: [umainechialpha@gmail.com](mailto:umainechialpha@gmail.com)
