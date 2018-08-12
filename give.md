@@ -5,3 +5,5 @@ permalink: /give/
 ---
 
 Give
+
+{% include paypalbutton.html %}
