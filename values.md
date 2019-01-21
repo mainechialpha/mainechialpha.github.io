@@ -4,10 +4,11 @@ title: Core Values
 permalink: /values/
 ---
 
+<div class="container-fluid">
 {% for val in site.data.values %}
 {% assign value = val[1] %}
 {% if value.body %}
-<div class="shadow-card card col-sm-6">
+<div class="shadow-card card">
   {% if value.img %}
     <img class="card-img-top" src="{{ site.url }}/images/values/{{ value.img }}" alt="{{ value.title }}">
   {% endif %}
@@ -18,3 +19,4 @@ permalink: /values/
 </div>
 {% endif %}
 {% endfor %}
+</div>
