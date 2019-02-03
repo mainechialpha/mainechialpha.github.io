@@ -11,3 +11,5 @@ We want to connect with you! Feel free to reach out to any of the staff, message
 Mac Holderfield, Director: (870) 978-0557
 
 Email: [umainechialpha@gmail.com](mailto:umainechialpha@gmail.com)
+
+<img src="{{ site.url }}/images/contact.jpg" class="img-fluid landing-img" alt="MAINE CHI ALPHA">
