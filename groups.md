@@ -11,7 +11,6 @@ In a Discipleship Group (D-Group), you're going to meet real people. Ones who ta
 You can find times and locations of our weekly Men's and Women's D-Groups below and on our Facebook page!
 
 Men's DGroups
-
 Tuesday @ 6PM, Union 
 Tuesday @ 6PM, North Pod 
 Tuesday @ 7PM, Drummond Chapel 
