@@ -4,6 +4,8 @@ title: Foreign
 permalink: /foreign/
 ---
 
+<img src="{{ site.url }}/images/foreignmission.jpg" class="img-fluid" alt="MAINE CHI ALPHA">
+
 Project 222
 
 Why has Chi Alpha decided that it’s a good idea to take a group of university students overseas? In Jesus’ final address to the disciples, He told them to take the Gospel to all nations, beginning “in Jerusalem, and in all Judea and Samaria, and to the ends of the earth.” (Acts 1:8)

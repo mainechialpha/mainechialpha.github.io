@@ -4,13 +4,13 @@ title: Activities
 permalink: /activities/
 ---
 
-Christmas Party
+### Christmas Party
 
 <img src="{{ site.url }}/images/christmasparty.jpg" class="img-fluid" alt="MAINE CHI ALPHA">
 
 Each December, we have a Christmas Party to celebrate together before finals begin. Get dressed in yo’ best and be looking for details as to time and location on our Facebook page!
 
-And More! 
+### And More! 
 
 <img src="{{ site.url }}/images/and-more.jpg" class="img-fluid" alt="MAINE CHI ALPHA">
 
