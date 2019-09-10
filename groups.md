@@ -11,17 +11,7 @@ In a Discipleship Group (D-Group), you're going to meet real people. Ones who ta
 You can find times and locations of our weekly Men's and Women's D-Groups below and on our Facebook page!
 
 Men's DGroups
-<br>Tuesday @ 6PM, Union 
-<br>Tuesday @ 6PM, North Pod 
-<br>Tuesday @ 7PM, Drummond Chapel 
-<br>Wednesday @ 6:30 PM, Husson University (Carlisle 217) 
-<br>Thursday @ 7:30 PM, Lown Room 
+<br>Coming soon!
 
 Women's DGroups 
-<br>Tuesday @ 6PM, Lown Room 
-<br>Tuesday @ 6PM, Totman Lounge 
-<br>Tuesday @ EMCC (Contact Chelsey) 
-<br>Wednesday @ 6PM, Walker Room 
-<br>Thursday @ 7PM, Union 
-<br>Thursday @ 7PM, Walker Room 
-<br>Thursday @ 7:30PM, Merrill Hall Preschool 
+<br>Coming soon!
