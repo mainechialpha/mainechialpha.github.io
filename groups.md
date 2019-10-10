@@ -26,4 +26,4 @@ Women's DGroups
 <br>Tuesday @ 7:30PM, Ellis House (contact Molly!)
 <br>Wednesday @ 5:30PM, Acadia Hall, EMCC (contact Chelsey!)
 <br>Wednesday @ 7:30PM, Senior Skulls Room, Memorial Union
-<br>Thursday @ 7:30PM, Walker Room
+<br>Thursday @ 7:30PM, Walker Room, Memorial Union
