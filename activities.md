@@ -4,6 +4,10 @@ title: Activities
 permalink: /activities/
 ---
 
+### Pandemic
+
+From November 5-8, 2019: a four day, campus-wide survival game of tag. "Uninfected" players fend off increasingly larger number of "infected" players. Will you be the last left standing? Registration now open at tinyrul.com/xapandemic
+
 ### Christmas Party
 
 <img src="{{ site.url }}/images/christmasparty.jpg" class="img-fluid" alt="MAINE CHI ALPHA">
