@@ -11,7 +11,19 @@ In a Discipleship Group (D-Group), you're going to meet real people. Ones who ta
 You can find times and locations of our weekly Men's and Women's D-Groups below and on our Facebook page!
 
 Men's DGroups
-<br>Coming soon!
+<br>Tuesday @ 5PM, The Black Box, 1944 Hall
+<br>Tuesday @ 6:30PM, FFA Room, Memorial Union
+<br>Tuesday @ 7PM, North Pod, Memorial Union
+<br>Wednesday @ 6:30PM, DPC, Husson University
+<br>Wednesday @ 7PM, FFA Room, Memorial Union
+<br>Thursday @ 6PM, Chapel, Stewart Commons Lobby
+<br>Thursday @ 7:30PM, Senior Skulls Room, Memorial Union
 
 Women's DGroups 
-<br>Coming soon!
+<br>Tuesday @ 6PM, Totman Lounge, Memorial Union
+<br>Tuesday @ 7PM, Senior Skulls Room, Memorial Union
+<br>Tuesday @ 7PM, Coe Room, Memorial Union
+<br>Tuesday @ 7:30PM, Ellis House (contact Molly!)
+<br>Wednesday @ 5:30PM, Acadia Hall, EMCC (contact Chelsey!)
+<br>Wednesday @ 7:30PM, Senior Skulls Room, Memorial Union
+<br>Thursday @ 7:30PM, Walker Room
