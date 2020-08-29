@@ -10,7 +10,7 @@ Nope! But if you’re looking for brother or sisterhood, look no further. Our na
 
 #### Where do you meet?
 
-At the moment, we're working on securing a location that works for our large group meetings with social distancing! Go ahead and follow us on Facebook or Instagram for the fastest update once we have a room! We also have weekly small groups—more on that below!
+At the moment, we're working on securing a location that works for our large group meetings with social distancing! Go ahead and follow us on Facebook or Instagram for the fastest update once we have a room. We also have weekly small groups—more on that below!
 
 #### What do I do if I'm interested?
 
