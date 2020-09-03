@@ -8,7 +8,7 @@ permalink: /activities/
 
 <img src="{{ site.url }}/images/and-more.jpg" class="img-fluid" alt="MAINE CHI ALPHA">
 
-##Mark on the Mall
+## Mark on the Mall
 
 Saturday, September 5 @ 10AM
 
@@ -19,7 +19,7 @@ Aim to bring a camp chair, blanket, or something else for seating. Listening tim
 Register here: https://forms.gle/ecZSMrPbsGknLDzdA
 
 
-##Run Together!
+## Run Together!
 
 Wednesday, September 9 @ 4:15PM
 
@@ -28,7 +28,7 @@ A place to connect for all abilities—walking, the seasoned runner, and an intr
 Register here: https://forms.gle/4pogUNseAjW4Zr3x5
 
 
-##Trot for Tacos
+## Trot for Tacos
 
 Wednesday, September 9 @ 6PM
 
@@ -37,7 +37,7 @@ Do you like good tacos? Do you enjoy a walk with friends? Come on then! We'll wa
 Register here: https://forms.gle/ZKcovVVzp673H4c68
 
 
-##Stroll to the Nest
+## Stroll to the Nest
 
 Sunday, September 13 @ 1PM
 
@@ -46,7 +46,7 @@ Passeggiata, or promenade, is a popular pastime throughout Italy. This term mean
 Register here: https://forms.gle/7Se3nDjEtDfR77b16
 
 
-##Yoga & Friendship
+## Yoga & Friendship
 
 Sunday, September 13 @ 3PM
 
