@@ -16,7 +16,7 @@ As followers of Jesus, we believe the Bible is God’s life manual for humanity.
 
 Aim to bring a camp chair, blanket, or something else for seating. Listening time is 1 hr 33 min. 
 
-Register here: https://forms.gle/ecZSMrPbsGknLDzdA
+[Register here!](https://forms.gle/ecZSMrPbsGknLDzdA)
 
 ***
 
@@ -26,7 +26,7 @@ Register here: https://forms.gle/ecZSMrPbsGknLDzdA
 
 A place to connect for all abilities—walking, the seasoned runner, and an intro to the Couch to 5K program. We'll meet at the trailhead on the side of the tennis courts to start, go for 30 minutes, and end together with some stretching. Come hang out and make friends!
 
-Register here: https://forms.gle/4pogUNseAjW4Zr3x5
+[Register here!](https://forms.gle/4pogUNseAjW4Zr3x5)
 
 ***
 
@@ -36,7 +36,7 @@ Register here: https://forms.gle/4pogUNseAjW4Zr3x5
 
 Do you like good tacos? Do you enjoy a walk with friends? Come on then! We'll walk from the steps of Fogler Library to Tacorita in the Orono village center. There is minimal indoor seating, but plenty of room to gather at their tables outside. 
 
-Register here: https://forms.gle/ZKcovVVzp673H4c68
+[Register here!](https://forms.gle/ZKcovVVzp673H4c68)
 
 ***
 
@@ -46,7 +46,7 @@ Register here: https://forms.gle/ZKcovVVzp673H4c68
 
 Passeggiata, or promenade, is a popular pastime throughout Italy. This term means to go on a stroll. Often, walking is equated to staying fit or moving from point A to B. In Italy, it is more of a leisurely stroll in the company of family and friends - to see and be seen. Come take a stroll with us from the steps of Fogler to the Nest in downtown Orono. Just enjoy the walk or have a drink or bite when we get to the Nest.
 
-Register here: https://forms.gle/7Se3nDjEtDfR77b16
+[Register here!](https://forms.gle/7Se3nDjEtDfR77b16)
 
 ***
 
@@ -56,5 +56,5 @@ Register here: https://forms.gle/7Se3nDjEtDfR77b16
 
 We will be doing socially distant yoga on the mall with a friendship circle to follow. People can bring their own yoga mat or blanket to join! 
 
-Register here: https://forms.gle/PysYLkzzieaUV7wy6
+[Register here!](https://forms.gle/PysYLkzzieaUV7wy6)
 
