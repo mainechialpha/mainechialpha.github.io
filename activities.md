@@ -12,11 +12,11 @@ permalink: /activities/
 
 #### Saturday, September 5 @ 10AM
 
-⋅⋅⋅As followers of Jesus, we believe the Bible is God’s life manual for humanity. This fall, several Chi Alphans are learning from the book of Mark; this is an opportunity to hear a dramatized version read together. If you’ve ever wondered what do “those Christians” mean by the gospel, or wondered about the real story of the life of Jesus, then come hear for yourself. The goal here will not be to draw out discussion or q&a. It is rather an opportunity to relax, listen, and consider in the company of friends. Pull up a seat!
+   As followers of Jesus, we believe the Bible is God’s life manual for humanity. This fall, several Chi Alphans are learning from the book of Mark; this is an opportunity to hear a dramatized version read together. If you’ve ever wondered what do “those Christians” mean by the gospel, or wondered about the real story of the life of Jesus, then come hear for yourself. The goal here will not be to draw out discussion or q&a. It is rather an opportunity to relax, listen, and consider in the company of friends. Pull up a seat!
 
-⋅⋅⋅Aim to bring a camp chair, blanket, or something else for seating. Listening time is 1 hr 33 min. 
+   Aim to bring a camp chair, blanket, or something else for seating. Listening time is 1 hr 33 min. 
 
-⋅⋅⋅Register here: https://forms.gle/ecZSMrPbsGknLDzdA
+   Register here: https://forms.gle/ecZSMrPbsGknLDzdA
 
 
 ### Run Together!
