@@ -18,6 +18,7 @@ Aim to bring a camp chair, blanket, or something else for seating. Listening tim
 
 Register here: https://forms.gle/ecZSMrPbsGknLDzdA
 
+***
 
 ### Run Together!
 
@@ -27,6 +28,7 @@ A place to connect for all abilities—walking, the seasoned runner, and an intr
 
 Register here: https://forms.gle/4pogUNseAjW4Zr3x5
 
+***
 
 ### Trot for Tacos
 
@@ -36,6 +38,7 @@ Do you like good tacos? Do you enjoy a walk with friends? Come on then! We'll wa
 
 Register here: https://forms.gle/ZKcovVVzp673H4c68
 
+***
 
 ### Stroll to the Nest
 
@@ -45,6 +48,7 @@ Passeggiata, or promenade, is a popular pastime throughout Italy. This term mean
 
 Register here: https://forms.gle/7Se3nDjEtDfR77b16
 
+***
 
 ### Yoga & Friendship
 
