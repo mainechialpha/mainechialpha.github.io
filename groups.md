@@ -32,7 +32,7 @@ Our leaders are currently working hard on securing times and locations for our w
 {% assign group = groupb[1] %}
 {% if group.name %}
 
-<div class="d-sm-flex align-items-sm-center flex-sm-row shadow-card card">
+<div class="col-6 d-sm-flex align-items-sm-center flex-sm-row shadow-card card">
     <img class="group-img col-5" src="{{ site.url }}/images/womensdroups/{{ group.img }}" alt="{{ group.name }}">
     <div class="group-body">
         {% if group.name %}<h5 class="group-title">{{ group.name }}</h5>{% endif %}
