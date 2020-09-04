@@ -10,3 +10,4 @@ MAINE CHI ALPHA
 <div style="width: 100%; display: flex;">
   <iframe width="743" height="418" src="https://www.youtube.com/embed/3ngQYlqyO8A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+<p><a href="/activities/">Check out our fall activities here!</a></p>
