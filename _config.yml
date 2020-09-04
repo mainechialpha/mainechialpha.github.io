@@ -2,12 +2,12 @@
 title: MAINE CHI ALPHA
 email: umainechialpha@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Need description from Chels
+  Looking for truth? Looking for community? Looking for purpose? We are worship. We are family. We are mission.
 baseurl: "" # the subpath of your site, e.g. /blog/
 # url: "https://mainechialpha.com" # the base hostname & protocol for your site
 url: "https://mainechialpha.github.io" # the base hostname & protocol for your site
 facebook_url: https://www.facebook.com/umainechialpha/
-instagram_url: https://www.instagram.com/umainexa/ 
+instagram_url: https://www.instagram.com/umainexa/
 
 # Build settings
 markdown: kramdown
