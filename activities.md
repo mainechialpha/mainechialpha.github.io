@@ -10,18 +10,6 @@ We are so excited to be back on campus again--here are some of our upcoming even
 
 <img src="{{ site.url }}/images/and-more.jpg" class="img-fluid" alt="MAINE CHI ALPHA">
 
-### Mark on the Mall
-
-##### Saturday, September 5 @ 10AM
-
-As followers of Jesus, we believe the Bible is God’s life manual for humanity. This fall, several Chi Alphans are learning from the book of Mark; this is an opportunity to hear a dramatized version read together. If you’ve ever wondered what do “those Christians” mean by the gospel, or wondered about the real story of the life of Jesus, then come hear for yourself. The goal here will not be to draw out discussion or q&a. It is rather an opportunity to relax, listen, and consider in the company of friends. Pull up a seat!
-
-Aim to bring a camp chair, blanket, or something else for seating. Listening time is 1 hr 33 min. 
-
-[Register for Mark on the Mall here!](https://forms.gle/ecZSMrPbsGknLDzdA)
-
-***
-
 ### Run Together!
 
 ##### Wednesday, September 9 @ 4:15PM
@@ -39,6 +27,26 @@ A place to connect for all abilities—walking, the seasoned runner, and an intr
 Do you like good tacos? Do you enjoy a walk with friends? Come on then! We'll walk from the steps of Fogler Library to Tacorita in the Orono village center. There is minimal indoor seating, but plenty of room to gather at their tables outside. 
 
 [Register for Trot for Tacos here!](https://forms.gle/ZKcovVVzp673H4c68)
+
+***
+
+### Move Your Body
+
+##### Thursday, September 10 @ 2PM
+
+Let’s throw our own weight around in a fun way! We’ll have a 30 minute exercise routine that requires zero equipment, zero skill, and zero contact!! Meet at the Practice Field at 2PM. 
+
+[Register for Move Your Body here!](https://forms.gle/f79Kj2ERuAxqTuhr9)
+
+***
+
+### Braided Pumpkins
+
+##### Thursday, September 10 @ 4PM
+
+Join us as we make a fun fall craft; decorative pumpkins wrapped in braided yarn! Feel free to bring your favorite yarn if you have some, but don’t worry- we will also have plenty to choose from! We will meet at the Hilltop Quad at 4PM. 
+
+[Register for Braided Pumpkins here!](https://forms.gle/ngZWYfdsSKeEc6ni7)
 
 ***
 
