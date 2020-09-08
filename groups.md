@@ -42,4 +42,4 @@ Our leaders are currently working hard on securing times and locations for our w
 {% endif %}
 {% endfor %}
 
-<p style="text-align: center;"><a href="https://forms.gle/P22icC57cftW8GQ87" class="btn btn-primary my-1">Connect to a DGroup leader here!</a></p>
+<p style="text-align: center;"><a href="https://forms.gle/P22icC57cftW8GQ87" class="btn btn-primary my-1">Connect to a D-Group leader here!</a></p>
