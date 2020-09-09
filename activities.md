@@ -44,7 +44,7 @@ Let’s throw our own weight around in a fun way! We’ll have a 30 minute exerc
 
 ##### Thursday, September 10 @ 4PM
 
-Join us as we make a fun fall craft; decorative pumpkins wrapped in braided yarn! Feel free to bring your favorite yarn if you have some, but don’t worry- we will also have plenty to choose from! We will meet at the Hilltop Quad at 4PM. 
+Join us as we make a fun fall craft; decorative pumpkins wrapped in braided yarn! Feel free to bring your favorite yarn if you have some, but don’t worry- we will also have plenty to choose from! We will meet on the lawn behind the library at 4PM. 
 
 [Register for Braided Pumpkins here!](https://forms.gle/ngZWYfdsSKeEc6ni7)
 
