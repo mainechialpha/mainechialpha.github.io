@@ -16,7 +16,7 @@ We are so excited to be back on campus again--here are some of our upcoming even
 
 Want to spruce up your space? Come make floral wall hangings with us! We’ll provide all the materials! Sign up below and meet at 3PM behind the library!
 
-[Register for Make a Floral Wall Hanging here!](https://forms.gle/yxo7t5bNE6rUxL6g7)
+[Register to make a floral wall hanging here!](https://forms.gle/yxo7t5bNE6rUxL6g7)
 
 ***
 
