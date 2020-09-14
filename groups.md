@@ -17,7 +17,7 @@ We are working hard on getting the site fixed so you can see names & faces of al
 {% if group.name %}
 
 <div class="d-sm-flex align-items-sm-center flex-sm-row shadow-card card">
-    <img class="group-img col-5" src="{{ site.url }}/images/mensdroups/{{ group.img }}" alt="{{ group.name }}">
+    <img class="group-img col-5" src="{{ site.url }}/images/mensdgroups/{{ group.img }}" alt="{{ group.name }}">
     <div class="group-body">
         {% if group.name %}<h5 class="group-title">{{ group.name }}</h5>{% endif %}
         {% if group.time %}<p class="group-time"><small class="text-muted">{{ group.time }}</small>{% endif %}</p>
@@ -33,7 +33,7 @@ We are working hard on getting the site fixed so you can see names & faces of al
 {% if group.name %}
 
 <div class="d-sm-flex align-items-sm-center flex-sm-row shadow-card card">
-    <img class="group-img col-5" src="{{ site.url }}/images/womensdroups/{{ group.img }}" alt="{{ group.name }}">
+    <img class="group-img col-5" src="{{ site.url }}/images/womensdgroups/{{ group.img }}" alt="{{ group.name }}">
     <div class="group-body">
         {% if group.name %}<h5 class="group-title">{{ group.name }}</h5>{% endif %}
         {% if group.time %}<p class="group-time"><small class="text-muted">{{ group.time }}</small>{% endif %}</p>
