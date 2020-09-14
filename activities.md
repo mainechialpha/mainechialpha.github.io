@@ -10,21 +10,31 @@ We are so excited to be back on campus again--here are some of our upcoming even
 
 <img src="{{ site.url }}/images/and-more.jpg" class="img-fluid" alt="MAINE CHI ALPHA">
 
-### Stroll to the Nest
+### Make a Floral Wall Hanging!
 
-##### Sunday, September 13 @ 1PM
+##### Friday, September 18 @ 3PM
 
-Passeggiata, or promenade, is a popular pastime throughout Italy. This term means to go on a stroll. Often, walking is equated to staying fit or moving from point A to B. In Italy, it is more of a leisurely stroll in the company of family and friends - to see and be seen. Come take a stroll with us from the steps of Fogler to the Nest in downtown Orono. Just enjoy the walk or have a drink or bite when we get to the Nest.
+Want to spruce up your space? Come make floral wall hangings with us! We’ll provide all the materials! Sign up below and meet at 3PM behind the library!
 
-[Register for Stroll to the Nest here!](https://forms.gle/7Se3nDjEtDfR77b16)
+[Register for Make a Floral Wall Hanging here!](https://forms.gle/yxo7t5bNE6rUxL6g7)
 
 ***
 
-### Yoga & Friendship
+### XA Bad Golfers' Tourney
 
-##### Sunday, September 13 @ 3PM
+##### Saturday, September 19 @ 8:30AM
 
-We will be doing socially distant yoga on the mall with a friendship circle to follow. People can bring their own yoga mat or blanket to join! 
+Are you bad at golf? I mean really bad? Then we have the event for you! Come be bad at golf with other like-“skilled” people as we crown the best of the worst. Who knows the amount of innocent trees and buildings (please not people) that will be painfully greeted by our talent?! 
 
-[Register for Yoga & Friendship here!](https://forms.gle/PysYLkzzieaUV7wy6)
+Things to know:
+-We will NOT be using golf carts for social distancing purposes, so come ready to walk!
+-We will be maintaining 6-feet distancing  and requiring masks throughout the day in accordance with the regulations of the University of Maine. 
+-We’ll meet at the golf course at 8:30am to give time for everyone to check in before our first tee time at 9:00am.
+-Location: 
+Hidden Meadows Golf Course
+240 W. Old Town Rd. 
+Old Town, ME 04468
+-Cost: $15 to play 9 holes. $13 to rent a set of clubs if you don’t already own your own. 
+
+[Register for the Bad Golfers' Tournament here!](https://forms.gle/UMuvGGvnBd69uygS8)
 
