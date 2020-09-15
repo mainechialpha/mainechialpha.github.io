@@ -38,3 +38,11 @@ Old Town, ME 04468
 
 [Register for the Bad Golfers' Tournament here!](https://forms.gle/UMuvGGvnBd69uygS8)
 
+
+### Hiking with Friends
+
+##### Saturday, September 26
+
+We will be hiking Sunkhaze Meadows national wildlife refuge in Milford on Sat 26th. Meet there at 9AM!
+
+[Register for Hiking with Friends here!](https://forms.gle/tGbv41tgNSFKhY8z5)
