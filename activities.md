@@ -41,7 +41,7 @@ Old Town, ME 04468
 
 ### Hiking with Friends
 
-##### Saturday, September 26
+##### Saturday, September 26 @ 9AM
 
 We will be hiking Sunkhaze Meadows national wildlife refuge in Milford on Sat 26th. Meet there at 9AM!
 
