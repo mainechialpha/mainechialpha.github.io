@@ -10,13 +10,13 @@ We are so excited to be back on campus again--here are some of our upcoming even
 
 <img src="{{ site.url }}/images/and-more.jpg" class="img-fluid" alt="MAINE CHI ALPHA">
 
-### Make a Floral Wall Hanging!
+### Make a Snail Friend!
 
 ##### Friday, September 18 @ 3PM
 
-Want to spruce up your space? Come make floral wall hangings with us! We’ll provide all the materials! Sign up below and meet at 3PM behind the library!
+Want to spruce up your space? Come make a fun wall hanging with us! We’ll provide all the materials! Sign up below and meet at 3PM behind the library!
 
-[Register to make a floral wall hanging here!](https://forms.gle/yxo7t5bNE6rUxL6g7)
+[Register to make a wall hanging here!](https://forms.gle/yxo7t5bNE6rUxL6g7)
 
 ***
 
