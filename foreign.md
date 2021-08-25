@@ -12,4 +12,4 @@ Why has Chi Alpha decided that it’s a good idea to take a group of university 
 
 As a ministry, we take this commission seriously. We are continually reaching out to our local campus—our Jerusalem—to the surrounding community—our Judea—and to international students on campus—our Samaria. Project is our response to the standing call to take the Gospel to the ends of the earth.
 
-In considering where we will go for Project, we look for places of desperate need. In Haiti, suffering is rooted in oppressive spiritual darkness, perversion, and poverty. Since 2006, through partnerships with long-term missionaries, we have been working to bring life-changing education and revelation to people who are desperately lost, but loved by the Lord.
+In considering where we will go for Project, we look for places of desperate need. Since 2006, through partnerships with long-term missionaries, we have been working to bring life-changing education and revelation to people who are desperately lost, but loved by the Lord.
