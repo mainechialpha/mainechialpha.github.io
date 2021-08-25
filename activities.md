@@ -4,7 +4,7 @@ title: Activities
 permalink: /activities/
 ---
 
-## Upcoming Events!
+# Upcoming Events!
 
 Get pumped--here are our first events of the semester. We can't wait to meet you!
 
