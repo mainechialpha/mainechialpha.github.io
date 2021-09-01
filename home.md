@@ -9,7 +9,7 @@ MAINE CHI ALPHA
 </h1>
 
 <h2 style="text-align: center;">
-# Large Group Launch September 13! 
+Large Group Launch September 13! 
 </h2>
 
 <div style="width: 100%; display: flex; justify-content: center;">
