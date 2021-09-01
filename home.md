@@ -8,7 +8,7 @@ permalink: /
 MAINE CHI ALPHA
 </h1>
 
-<h2 style="text-align: center;">
+<h2 id="home-brand" style="text-align: center;">
 Large Group Launch September 13! 
 </h2>
 
