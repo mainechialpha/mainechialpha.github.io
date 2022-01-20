@@ -6,42 +6,33 @@ permalink: /activities/
 
 # Upcoming Events!
 
-Get pumped--here are our first events of the semester. We can't wait to meet you!
 
-### Campus-Wide Scavenger Hunt
-Saturday, August 28 @ 1-4 PM
 
-Drop in at the mall to get your list and go explore campus! When you're done, come back for an ice cream sundae and lawn games.
+### Winter Retreat in New Hampshire
+Friday, February 18 - Sunday, February 20 
 
-### Ultimate Frisbee
-Sunday, August 29 @ 3 PM
+Our annual winter retreat is back at Rumney, NH! Come hear from an incredible speaker on spiritual formation, enjoy ice skating and time with friends, and take a break from routine!
 
-Casual pick-up game. Come play or just hang! Find us on the mall.
+### Project Parents' Meeting
+Saturday, February 26 @ 10AM
 
-### Lawn Game Night
-Monday, August 30 @ 6PM
+This is a specific meeting for those interested going on Project to have questions answered and learn more information. Support raising training in the afternoon.
 
-Come celebrate finishing your first day of classes with more lawn games (and maybe some popsicles?) on the quad behind Cumberland Hall!
+### Spring Break Trip
+Exact dates, TBA
 
-### Student Org Fair
-Wednesday, September 1 @ 10 AM-2 PM
+Each year, we love to serve a community in the New England area with our spring break. More details coming soon!
 
-We'll be out with all the other UMaine organizations ready to meet you and answer all your questions about "Why Chi Alpha?" Come say hey!
+### Women's One-Day Conference
+Saturday, April 2 @ 9 AM-3 PM (Waterville, ME)
 
-### Worship & Testimony Night
-Friday, September 3 @ 7PM
+Come hear Pastor Abi Cyr share at this one-day event! Cost: $30. Contact Molly, Chelsey, or Leah for more information!
 
-What to expect? We'll be singing songs to God together and you can hear stories of how others' lives have been changed. You can find us on the lawn behind the library. 
+### Maine Day
+Wednesday, April 27 
 
-### Boggin' & Sweet Froggin'
-Saturday, September 4 @ 2-4 PM
+If it's Maine Day, you can expect to see us having a blast with some gaga ball & lemonade! Come out to the BBQ to find us. More details later in the semester!
 
-We're headed to the bog walk at the Bangor City Forest & then to Sweet Frog for some treats. 
-
-### House 27:4 & Lunch
-Sunday, September 5 @ 10:30 AM
-
-Many of us go to church at House 27:4 and we'd love for you to join us! We'll go to lunch together afterwards. (Las Palapas, anyone?) Reach out to a staff or umainechialpha@gmail.com if you need a ride!
 
 
 <img src="{{ site.url }}/images/and-more.jpg" class="img-fluid" alt="MAINE CHI ALPHA">
