@@ -9,7 +9,7 @@ MAINE CHI ALPHA
 </h1>
 
 <h2 id="home-brand" style="text-align: center;">
-Large Group Launch September 13! 
+
 </h2>
 
 <div style="width: 100%; display: flex; justify-content: center;">
@@ -17,4 +17,4 @@ Large Group Launch September 13!
 </div>
 
 
-<p style="text-align: center;"><a href="/activities/" class="btn btn-primary my-1">Check out our fall activities here!</a></p>
+<p style="text-align: center;"><a href="/activities/" class="btn btn-primary my-1">Check out our spring semester activities here!</a></p>
